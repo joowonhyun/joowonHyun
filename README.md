@@ -32,8 +32,3 @@
 </div>
 
 ###
-
-<br/><br/>
-[![blog](https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=Blog&logoColor=#09B3AF)](https://joowonhyun.github.io/)
-
-###
