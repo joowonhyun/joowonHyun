@@ -28,7 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"width="40" height="40" alt="styledcomponents logo"  />
+  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"width="40" height="40" alt="mysql logo"  />
+      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker logo"  />
 </div>
 
 ###
